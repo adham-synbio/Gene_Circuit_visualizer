@@ -2,6 +2,8 @@
 
 This Streamlit app visualizes plasmid constructs based on user input.
 
+![construct_image](construct.png)
+
 ## Features
 - Visualize multiple plasmid constructs
 - Download high-quality images of visualizations
